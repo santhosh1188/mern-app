@@ -33,7 +33,7 @@ JWT_SECRET=<32-char-secret-key>
 - Database: MongoDB Atlas
 
 ## Demo Video
-[Google Drive link to be added after recording]
+https://drive.google.com/file/d/1D-ZFYc3LIMtHBBruUusTrJfDF7GySAPS/view?usp=sharing
 
 ## Notes
 - File validation: CSV/XLSX/XLS, correct column names.
